@@ -184,7 +184,7 @@ function ostOnload() {
     if (e.ctrlKey && e.key === 'u') {
       // Prevent the default action (opening the source view)
       e.preventDefault();
-    }
+      alert("View Page Source is disabled on this page.");
   });
 
 // =======================
@@ -193,6 +193,36 @@ function ostOnload() {
 
   document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
+    alert("Right Click is disabled on this page.");
+  });
+
+  document.addEventListener('copy', function(event) {
+                event.preventDefault(); // Prevent the default copy action
+                alert("Copying is disabled on this page.");
+            });
+
+  document.addEventListener('keydown', function(e) {
+    // Check if the Ctrl key is pressed and the key is 'u'
+    if (e.ctrlKey && e.key === 'c') {
+      // Prevent the default action (opening the source view)
+      e.preventDefault();
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    // Check if the Ctrl key is pressed and the key is 'u'
+    if (e.ctrlKey && e.key === 'v') {
+      // Prevent the default action (opening the source view)
+      e.preventDefault();
+      alert("Paste is disabled on this page.");
+  });
+
+  document.addEventListener('keydown', function(e) {
+    // Check if the Ctrl key is pressed and the key is 'u'
+    if (e.ctrlKey && e.key === 'a') {
+      // Prevent the default action (opening the source view)
+      e.preventDefault();
+      alert("Select is disabled on this page.");
   });
 
   </script>
