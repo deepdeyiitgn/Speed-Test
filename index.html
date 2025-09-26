@@ -174,6 +174,29 @@ function ostOnload() {
 
   </script>
 
+<script>
+
+  // =======================
+// Blocker: Block CTRL + U
+// =======================
+  document.addEventListener('keydown', function(e) {
+    // Check if the Ctrl key is pressed and the key is 'u'
+    if (e.ctrlKey && e.key === 'u') {
+      // Prevent the default action (opening the source view)
+      e.preventDefault();
+    }
+  });
+
+// =======================
+// Blocker: Block Right Click Only
+// =======================
+
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+
+  </script>
+  
 <!--
 Speed Test by OpenSpeedTest™️ is Free and Open-Source Software with MIT License.
 
