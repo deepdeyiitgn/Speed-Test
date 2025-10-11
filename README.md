@@ -1,3 +1,43 @@
+---
+<div align="center"> 
+  
+ [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepdeyiitgn&show_icons=true)](https://github.com/deepdeyiitgn/deepdey-discord_bot/)
+</div>
+
+---
+<div align="center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&layout=pie)](https://github.com/deepdeyiitgn)
+</div>
+
+---
+<div align="center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&stats_format=bytes)](https://deepdeyiitk.com/)
+</div>
+
+---
+<div align="center"> 
+  
+<p align="center">
+ 
+  <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
+</p>
+</div>
+
+
+<p align="center">
+  <em>Made with ❤️, AI power, and relentless focus by <b>Deep Dey</b></em>
+</p>
+
+
+
+<div align="center"> 
+  
+  [![](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)](https://deepdeyiitk.com/)
+</div>
+
+
 #  **[SpeedTest by OpenSpeedTest™](https://openspeedtest.com?Run&ref=Github)** - Free & Open-Source HTML5 Network Performance Estimation Tool.
 
   
@@ -494,3 +534,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
